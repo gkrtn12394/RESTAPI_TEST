@@ -69,6 +69,6 @@ $ ./mvnw spring-boot:run
 * 자바 코드 규칙
     * https://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html
 * sqlite
-    - 데이터 타잎 : https://www.sqlite.org/datatype3.html 여길 참조하면되고요
-    - 쿼리 : https://www.tutorialspoint.com/sqlite/sqlite_overview.htm 여기가 제일 잘나와있네요
+    - 데이터 타잎 : https://www.sqlite.org/datatype3.html
+    - 쿼리 : https://www.tutorialspoint.com/sqlite/sqlite_overview.htm
 
